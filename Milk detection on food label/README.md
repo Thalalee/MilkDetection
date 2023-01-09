@@ -1,8 +1,9 @@
-**Milk Detection on food label**
+# Milk Detection on food label
 
-This project aims to detect the Thai and English word "milk" in English or "นม" on food labels.
 This project is a part of EGBI 443 Image Processing in medicine, Department of Biomedical Engineering, Mahidol university.
+The aim is to detect the Thai and English word "milk" in English or "นม" on food labels.
 
-The dataset for this project is provided in the google drive link in .txt file
+The dataset for this project is provided in the google drive link in .txt file.
 
 Some examples of output images can be accessed in the "output" folder.
+
